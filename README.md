@@ -1,2 +1,2 @@
-# Exercicio_2_Tri-ngulo
+# Exercicio_2_Triângulo
 Cálculos de um  triângulo
